@@ -4,7 +4,11 @@ package com.atguigu.sparkmall0529.common.util
 import org.apache.commons.configuration2.{FileBasedConfiguration, PropertiesConfiguration}
 import org.apache.commons.configuration2.builder.FileBasedConfigurationBuilder
 import org.apache.commons.configuration2.builder.fluent.Parameters
+<<<<<<< HEAD
 //从配置文件中读取hive的配置信息
+=======
+
+>>>>>>> origin/master
 object ConfigurationUtil {
 
   // FileBasedConfigurationBuilder:产生一个传入的类的实例对象
